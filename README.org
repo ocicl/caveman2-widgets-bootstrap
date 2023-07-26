@@ -1,0 +1,10 @@
+* caveman2-widgets-bootstrap
+
+An extension to caveman2-widgets which enables the simple usage of Twitter Bootstrap.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ritschmaster/caveman2-widgets-bootstrap.git   |
+| commit  | b93ce0d  |
+| systems | caveman2-widgets-bootstrap |
+|---------+-------------------------------------------|
+
